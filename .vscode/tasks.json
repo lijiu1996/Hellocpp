@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            // 默认第一条为编译命令
+            "label": "build",
+            // 使用 g++ 编译
+            "command": "g++",
+            // 参数包含所有使用到的源文件
+            "args": [
+                "-g",
+                "main.cpp",
+                "sub.cpp",
+                "-o",
+                "main"
+            ],
+            // 默认在 shell 中执行编译命令
+            "type": "shell"
+        },
+
+    ]
+}
