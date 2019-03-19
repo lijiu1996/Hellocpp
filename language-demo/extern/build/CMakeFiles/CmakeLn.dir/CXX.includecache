@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/main.cpp
+test.h
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.h
+
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.cpp
+test.h
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.h
+
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.h
+stdio.h
+-
+

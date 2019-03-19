@@ -1,4 +1,4 @@
-# makefile version 2
+# makefile version 1 
 # for simple project which all .h .cpp in one directory
 CC := g++  
 FLAGS := -std=c++11 -w -g
