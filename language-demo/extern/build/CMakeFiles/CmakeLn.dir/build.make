@@ -43,7 +43,7 @@ RM = /usr/local/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src
+CMAKE_SOURCE_DIR = /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build
@@ -58,30 +58,30 @@ include CMakeFiles/CmakeLn.dir/progress.make
 include CMakeFiles/CmakeLn.dir/flags.make
 
 CMakeFiles/CmakeLn.dir/main.cpp.o: CMakeFiles/CmakeLn.dir/flags.make
-CMakeFiles/CmakeLn.dir/main.cpp.o: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/main.cpp
+CMakeFiles/CmakeLn.dir/main.cpp.o: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CmakeLn.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/main.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/main.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/main.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/main.cpp
 
 CMakeFiles/CmakeLn.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CmakeLn.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/main.cpp > CMakeFiles/CmakeLn.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/main.cpp > CMakeFiles/CmakeLn.dir/main.cpp.i
 
 CMakeFiles/CmakeLn.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CmakeLn.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/main.cpp -o CMakeFiles/CmakeLn.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/main.cpp -o CMakeFiles/CmakeLn.dir/main.cpp.s
 
 CMakeFiles/CmakeLn.dir/test.cpp.o: CMakeFiles/CmakeLn.dir/flags.make
-CMakeFiles/CmakeLn.dir/test.cpp.o: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.cpp
+CMakeFiles/CmakeLn.dir/test.cpp.o: ../test.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CmakeLn.dir/test.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/test.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/test.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.cpp
 
 CMakeFiles/CmakeLn.dir/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CmakeLn.dir/test.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.cpp > CMakeFiles/CmakeLn.dir/test.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.cpp > CMakeFiles/CmakeLn.dir/test.cpp.i
 
 CMakeFiles/CmakeLn.dir/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CmakeLn.dir/test.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.cpp -o CMakeFiles/CmakeLn.dir/test.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.cpp -o CMakeFiles/CmakeLn.dir/test.cpp.s
 
 # Object files for target CmakeLn
 CmakeLn_OBJECTS = \
@@ -108,6 +108,6 @@ CMakeFiles/CmakeLn.dir/clean:
 .PHONY : CMakeFiles/CmakeLn.dir/clean
 
 CMakeFiles/CmakeLn.dir/depend:
-	cd /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CmakeLn.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CmakeLn.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CmakeLn.dir/depend
 

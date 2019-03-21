@@ -7,12 +7,12 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "../CMakeLists.txt"
   "CMakeFiles/3.12.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.12.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.12.2/CMakeSystem.cmake"
   "CMakeFiles/feature_tests.c"
   "CMakeFiles/feature_tests.cxx"
-  "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/CMakeLists.txt"
   "/usr/local/share/cmake-3.12/Modules/CMakeCCompiler.cmake.in"
   "/usr/local/share/cmake-3.12/Modules/CMakeCCompilerABI.c"
   "/usr/local/share/cmake-3.12/Modules/CMakeCInformation.cmake"

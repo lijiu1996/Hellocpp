@@ -43,10 +43,10 @@ RM = /usr/local/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln
+CMAKE_SOURCE_DIR = /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build
+CMAKE_BINARY_DIR = /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CmakeLn.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/CmakeLn.dir/flags.make
 
 CMakeFiles/CmakeLn.dir/main.cpp.o: CMakeFiles/CmakeLn.dir/flags.make
 CMakeFiles/CmakeLn.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CmakeLn.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/main.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CmakeLn.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/main.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/main.cpp
 
 CMakeFiles/CmakeLn.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CmakeLn.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/main.cpp > CMakeFiles/CmakeLn.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/main.cpp > CMakeFiles/CmakeLn.dir/main.cpp.i
 
 CMakeFiles/CmakeLn.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CmakeLn.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/main.cpp -o CMakeFiles/CmakeLn.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/main.cpp -o CMakeFiles/CmakeLn.dir/main.cpp.s
 
 CMakeFiles/CmakeLn.dir/sub.cpp.o: CMakeFiles/CmakeLn.dir/flags.make
 CMakeFiles/CmakeLn.dir/sub.cpp.o: ../sub.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CmakeLn.dir/sub.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/sub.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/sub.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CmakeLn.dir/sub.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CmakeLn.dir/sub.cpp.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/sub.cpp
 
 CMakeFiles/CmakeLn.dir/sub.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CmakeLn.dir/sub.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/sub.cpp > CMakeFiles/CmakeLn.dir/sub.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/sub.cpp > CMakeFiles/CmakeLn.dir/sub.cpp.i
 
 CMakeFiles/CmakeLn.dir/sub.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CmakeLn.dir/sub.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/sub.cpp -o CMakeFiles/CmakeLn.dir/sub.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/sub.cpp -o CMakeFiles/CmakeLn.dir/sub.cpp.s
 
 # Object files for target CmakeLn
 CmakeLn_OBJECTS = \
@@ -95,7 +95,7 @@ CmakeLn: CMakeFiles/CmakeLn.dir/main.cpp.o
 CmakeLn: CMakeFiles/CmakeLn.dir/sub.cpp.o
 CmakeLn: CMakeFiles/CmakeLn.dir/build.make
 CmakeLn: CMakeFiles/CmakeLn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CmakeLn"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CmakeLn"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CmakeLn.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/CmakeLn.dir/clean:
 .PHONY : CMakeFiles/CmakeLn.dir/clean
 
 CMakeFiles/CmakeLn.dir/depend:
-	cd /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build/CMakeFiles/CmakeLn.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build /Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build/CMakeFiles/CmakeLn.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CmakeLn.dir/depend
 

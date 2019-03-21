@@ -1,3 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
 project(CmakeLn)
-add_executable(CmakeLn main.cpp sub.cpp)
+set(CMAKE_CXX_STANDARD 11)
+aux_source_directory(. DIR_SRCS)
+add_executable(CmakeLn ${DIR_SRCS})

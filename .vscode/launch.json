@@ -8,9 +8,9 @@
             "name": "(lldb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/language-demo/extern/main",
+            "program": "${workspaceFolder}/vscode-test/build/CmakeLn", //修改这里
             "args": [], //调试时传递给程序的命令行参数
-            "stopAtEntry": true,
+            "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,

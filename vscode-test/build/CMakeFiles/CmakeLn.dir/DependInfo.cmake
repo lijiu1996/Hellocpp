@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/main.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build/CMakeFiles/CmakeLn.dir/main.cpp.o"
-  "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/sub.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-debugln/build/CMakeFiles/CmakeLn.dir/sub.cpp.o"
+  "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/main.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build/CMakeFiles/CmakeLn.dir/main.cpp.o"
+  "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/sub.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/vscode-test/build/CMakeFiles/CmakeLn.dir/sub.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

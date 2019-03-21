@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/main.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CmakeLn.dir/main.cpp.o"
-  "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CmakeLn.dir/test.cpp.o"
+  "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/main.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CmakeLn.dir/main.cpp.o"
+  "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.cpp" "/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CmakeLn.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

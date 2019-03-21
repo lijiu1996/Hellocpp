@@ -28,33 +28,33 @@ The CXX compiler identification is AppleClang, found in "/Users/lijiawei/Desktop
 Determining if the C compiler works passed with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_2a22b/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_2a22b.dir/build.make CMakeFiles/cmTC_2a22b.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_717ed/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_717ed.dir/build.make CMakeFiles/cmTC_717ed.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_2a22b.dir/testCCompiler.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -o CMakeFiles/cmTC_2a22b.dir/testCCompiler.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_2a22b
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a22b.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2a22b.dir/testCCompiler.c.o  -o cmTC_2a22b 
+Building C object CMakeFiles/cmTC_717ed.dir/testCCompiler.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -o CMakeFiles/cmTC_717ed.dir/testCCompiler.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_717ed
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_717ed.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_717ed.dir/testCCompiler.c.o  -o cmTC_717ed 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_5da83/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_5da83.dir/build.make CMakeFiles/cmTC_5da83.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_9beda/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_9beda.dir/build.make CMakeFiles/cmTC_9beda.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -o CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.12/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_5da83
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5da83.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o  -o cmTC_5da83 
+Building C object CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -o CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.12/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_9beda
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9beda.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o  -o cmTC_9beda 
 Apple LLVM version 9.0.0 (clang-900.0.39.2)
 Target: x86_64-apple-darwin16.7.0
 Thread model: posix
 InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_5da83 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_9beda -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-305
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em (tvOS)
 Library search paths:
@@ -70,19 +70,19 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/local/bin/make" "cmTC_5da83/fast"]
-  ignore line: [/usr/local/bin/make -f CMakeFiles/cmTC_5da83.dir/build.make CMakeFiles/cmTC_5da83.dir/build]
+  ignore line: [Run Build Command:"/usr/local/bin/make" "cmTC_9beda/fast"]
+  ignore line: [/usr/local/bin/make -f CMakeFiles/cmTC_9beda.dir/build.make CMakeFiles/cmTC_9beda.dir/build]
   ignore line: [make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -o CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_5da83]
-  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5da83.dir/link.txt --verbose=1]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o  -o cmTC_5da83 ]
+  ignore line: [Building C object CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc    -o CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_9beda]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9beda.dir/link.txt --verbose=1]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o  -o cmTC_9beda ]
   ignore line: [Apple LLVM version 9.0.0 (clang-900.0.39.2)]
   ignore line: [Target: x86_64-apple-darwin16.7.0]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_5da83 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_9beda -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-lto_library] ==> ignore, skip following value
@@ -93,11 +93,11 @@ Parsed C implicit link information from above output:
     arg [-macosx_version_min] ==> ignore
     arg [10.12.0] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_5da83] ==> ignore
+    arg [cmTC_9beda] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_5da83.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_9beda.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
   Library search paths: [;/usr/lib;/usr/local/lib]
@@ -118,14 +118,14 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_4f7ce/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_4f7ce.dir/build.make CMakeFiles/cmTC_4f7ce.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_36a47/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_36a47.dir/build.make CMakeFiles/cmTC_36a47.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4f7ce.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_4f7ce.dir/feature_tests.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_4f7ce
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4f7ce.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4f7ce.dir/feature_tests.c.o  -o cmTC_4f7ce 
+Building C object CMakeFiles/cmTC_36a47.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_36a47.dir/feature_tests.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_36a47
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_36a47.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_36a47.dir/feature_tests.c.o  -o cmTC_36a47 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
@@ -138,14 +138,14 @@ make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-d
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_2be71/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_2be71.dir/build.make CMakeFiles/cmTC_2be71.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_2fffa/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_2fffa.dir/build.make CMakeFiles/cmTC_2fffa.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_2be71.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_2be71.dir/feature_tests.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_2be71
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2be71.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2be71.dir/feature_tests.c.o  -o cmTC_2be71 
+Building C object CMakeFiles/cmTC_2fffa.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_2fffa.dir/feature_tests.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_2fffa
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2fffa.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2fffa.dir/feature_tests.c.o  -o cmTC_2fffa 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
@@ -158,14 +158,14 @@ make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-d
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_be8d1/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_be8d1.dir/build.make CMakeFiles/cmTC_be8d1.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_a46e4/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_a46e4.dir/build.make CMakeFiles/cmTC_a46e4.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_be8d1.dir/feature_tests.c.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_be8d1.dir/feature_tests.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_be8d1
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be8d1.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_be8d1.dir/feature_tests.c.o  -o cmTC_be8d1 
+Building C object CMakeFiles/cmTC_a46e4.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_a46e4.dir/feature_tests.c.o   -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_a46e4
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a46e4.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_a46e4.dir/feature_tests.c.o  -o cmTC_a46e4 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
@@ -176,33 +176,33 @@ make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-d
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_4516f/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_4516f.dir/build.make CMakeFiles/cmTC_4516f.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_3d5a3/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_3d5a3.dir/build.make CMakeFiles/cmTC_3d5a3.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_4516f.dir/testCXXCompiler.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -o CMakeFiles/cmTC_4516f.dir/testCXXCompiler.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_4516f
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4516f.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4516f.dir/testCXXCompiler.cxx.o  -o cmTC_4516f 
+Building CXX object CMakeFiles/cmTC_3d5a3.dir/testCXXCompiler.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -o CMakeFiles/cmTC_3d5a3.dir/testCXXCompiler.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_3d5a3
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3d5a3.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_3d5a3.dir/testCXXCompiler.cxx.o  -o cmTC_3d5a3 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_ace50/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_ace50.dir/build.make CMakeFiles/cmTC_ace50.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_37fb6/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_37fb6.dir/build.make CMakeFiles/cmTC_37fb6.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -o CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_ace50
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ace50.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ace50 
+Building CXX object CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -o CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_37fb6
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_37fb6.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_37fb6 
 Apple LLVM version 9.0.0 (clang-900.0.39.2)
 Target: x86_64-apple-darwin16.7.0
 Thread model: posix
 InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_ace50 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_37fb6 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-305
 configured to support archs: armv6 armv7 armv7s arm64 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em (tvOS)
 Library search paths:
@@ -218,19 +218,19 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/local/bin/make" "cmTC_ace50/fast"]
-  ignore line: [/usr/local/bin/make -f CMakeFiles/cmTC_ace50.dir/build.make CMakeFiles/cmTC_ace50.dir/build]
+  ignore line: [Run Build Command:"/usr/local/bin/make" "cmTC_37fb6/fast"]
+  ignore line: [/usr/local/bin/make -f CMakeFiles/cmTC_37fb6.dir/build.make CMakeFiles/cmTC_37fb6.dir/build]
   ignore line: [make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -o CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_ace50]
-  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ace50.dir/link.txt --verbose=1]
-  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ace50 ]
+  ignore line: [Building CXX object CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++     -o CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_37fb6]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_37fb6.dir/link.txt --verbose=1]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_37fb6 ]
   ignore line: [Apple LLVM version 9.0.0 (clang-900.0.39.2)]
   ignore line: [Target: x86_64-apple-darwin16.7.0]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
-  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_ace50 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.12.0 -o cmTC_37fb6 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-lto_library] ==> ignore, skip following value
@@ -241,11 +241,11 @@ Parsed CXX implicit link information from above output:
     arg [-macosx_version_min] ==> ignore
     arg [10.12.0] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_ace50] ==> ignore
+    arg [cmTC_37fb6] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_ace50.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_37fb6.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lc++] ==> lib [c++]
     arg [-lSystem] ==> lib [System]
     arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/lib/darwin/libclang_rt.osx.a]
@@ -267,14 +267,14 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_bab54/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_bab54.dir/build.make CMakeFiles/cmTC_bab54.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_ba445/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_ba445.dir/build.make CMakeFiles/cmTC_ba445.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_bab54.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_bab54.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_bab54
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bab54.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_bab54.dir/feature_tests.cxx.o  -o cmTC_bab54 
+Building CXX object CMakeFiles/cmTC_ba445.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_ba445.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ba445
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba445.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ba445.dir/feature_tests.cxx.o  -o cmTC_ba445 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
@@ -340,14 +340,14 @@ make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-d
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_37a0f/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_37a0f.dir/build.make CMakeFiles/cmTC_37a0f.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_3283d/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_3283d.dir/build.make CMakeFiles/cmTC_3283d.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_37a0f.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_37a0f.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_37a0f
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_37a0f.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_37a0f.dir/feature_tests.cxx.o  -o cmTC_37a0f 
+Building CXX object CMakeFiles/cmTC_3283d.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_3283d.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_3283d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3283d.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_3283d.dir/feature_tests.cxx.o  -o cmTC_3283d 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
@@ -413,14 +413,14 @@ make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-d
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_d8b34/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_d8b34.dir/build.make CMakeFiles/cmTC_d8b34.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_2013c/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_2013c.dir/build.make CMakeFiles/cmTC_2013c.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d8b34.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_d8b34.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_d8b34
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8b34.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d8b34.dir/feature_tests.cxx.o  -o cmTC_d8b34 
+Building CXX object CMakeFiles/cmTC_2013c.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_2013c.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_2013c
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2013c.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2013c.dir/feature_tests.cxx.o  -o cmTC_2013c 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 
@@ -486,14 +486,14 @@ make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-d
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/local/bin/make" "cmTC_1a4e5/fast"
-/usr/local/bin/make -f CMakeFiles/cmTC_1a4e5.dir/build.make CMakeFiles/cmTC_1a4e5.dir/build
+Run Build Command:"/usr/local/bin/make" "cmTC_a079d/fast"
+/usr/local/bin/make -f CMakeFiles/cmTC_a079d.dir/build.make CMakeFiles/cmTC_a079d.dir/build
 make[1]: Entering directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_1a4e5.dir/feature_tests.cxx.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_1a4e5.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_1a4e5
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1a4e5.dir/link.txt --verbose=1
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1a4e5.dir/feature_tests.cxx.o  -o cmTC_1a4e5 
+Building CXX object CMakeFiles/cmTC_a079d.dir/feature_tests.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_a079d.dir/feature_tests.cxx.o -c /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_a079d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a079d.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_a079d.dir/feature_tests.cxx.o  -o cmTC_a079d 
 make[1]: Leaving directory '/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/build/CMakeFiles/CMakeTmp'
 
 

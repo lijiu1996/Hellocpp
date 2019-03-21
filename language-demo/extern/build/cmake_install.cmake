@@ -1,4 +1,4 @@
-# Install script for directory: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src
+# Install script for directory: /Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

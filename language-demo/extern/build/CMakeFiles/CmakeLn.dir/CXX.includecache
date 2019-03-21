@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/main.cpp
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/main.cpp
 test.h
-/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.h
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.h
 
-/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.cpp
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.cpp
 test.h
-/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.h
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.h
 
-/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/src/test.h
+/Users/lijiawei/Desktop/code/cpp/hellocpp/language-demo/extern/test.h
 stdio.h
 -
 
